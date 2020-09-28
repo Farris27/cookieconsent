@@ -4,7 +4,7 @@
   "description": "Insites' cookie consent tool.",
   "main": "build/cookieconsent.min.js",
   "devDependencies": {
-    "del": "^2.0.2",
+    "del": "^6.0.0",
     "gulp": "^3.9.1",
     "gulp-rename": "^1.2.2",
     "gulp-replace": "^0.5.4",
